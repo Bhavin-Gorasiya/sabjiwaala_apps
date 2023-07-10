@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "912882538443",
+    "project_id": "sabjiwaala-7d034",
+    "storage_bucket": "sabjiwaala-7d034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912882538443:android:8d1f2f5c8be6dc902d484e",
+        "android_client_info": {
+          "package_name": "com.employee_app.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWy6hOGfIksrBDOK0uAvwA1ypn86aO9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912882538443:android:381d95bedcd238da2d484e",
+        "android_client_info": {
+          "package_name": "com.subjiwala.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWy6hOGfIksrBDOK0uAvwA1ypn86aO9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912882538443:android:15531037c387819d2d484e",
+        "android_client_info": {
+          "package_name": "com.subjiwala_farmer.mobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWy6hOGfIksrBDOK0uAvwA1ypn86aO9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
